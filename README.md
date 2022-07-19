@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @jcsilvadev
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 
 <!---
 jcsilvadev/jcsilvadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
